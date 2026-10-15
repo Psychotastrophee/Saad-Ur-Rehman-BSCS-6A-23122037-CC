@@ -1,11 +1,3 @@
-**Saad Ur Rehman**
-
-**BSCS-6A**
-
-**23122037**
-
-**Compiler Construction**
-
 # Compiler Construction — FLEX Lexer Project
 
 **Student Name:** Saad Ur Rehman  
