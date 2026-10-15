@@ -1,0 +1,44 @@
+TOKEN TYPE     LEXEME
+-------------------------------
+IDENTIFIER     Start
+KEYWORD        int
+IDENTIFIER     x
+OPERATOR       =
+INTEGER        10
+SYMBOL         ;
+KEYWORD        int
+IDENTIFIER     y
+OPERATOR       =
+INTEGER        20
+SYMBOL         ;
+KEYWORD        if
+SYMBOL         (
+IDENTIFIER     x
+OPERATOR       <=
+IDENTIFIER     y
+SYMBOL         )
+SYMBOL         {
+IDENTIFIER     show
+STRING         "x is smaller"
+SYMBOL         ;
+SYMBOL         }
+KEYWORD        else
+SYMBOL         {
+IDENTIFIER     show
+STRING         "y is smaller"
+SYMBOL         ;
+SYMBOL         }
+IDENTIFIER     End
+
+----------- SUMMARY -----------
+Keywords      : 4
+Identifiers   : 8
+Integers      : 2
+Floats        : 0
+Strings       : 2
+Characters    : 0
+Operators     : 3
+Symbols       : 10
+Preprocessor  : 0
+Errors        : 0
+Total lines   : 9
