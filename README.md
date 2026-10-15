@@ -50,18 +50,18 @@ The lexer recognizes and classifies the following token categories:
 
 1. **Generate C code from FLEX specification:**
 
-```
+```javascript
    flex lexer.l
 ```
 
-```
+```javascript
    gcc lex.yy.c
 ```
 
-```
+```javascript
    lex.yy.exe input.txt
 ```
 
-```
+```javascript
    lex.yy.exe input.txt > output.txt
 ```
